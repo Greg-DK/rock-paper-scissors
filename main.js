@@ -54,7 +54,7 @@ function playRound() {
 }
 
 
-function playGame() {
+function game() {
     //play a best of 5 rounds and console.log the result
     let computerWins = 0
     let playerWins = 0
@@ -83,5 +83,5 @@ function playGame() {
     }
   }
 
-  playGame()
+  game()
     
