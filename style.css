@@ -1,0 +1,17 @@
+.heading {
+    margin: auto;
+    width: auto;
+}
+
+.container {
+    display: flex;
+    width: auto;
+    margin: auto;
+
+}
+
+.button {
+    margin:1rem;
+    padding: 1rem;
+    size: 0.5rem;
+}
